@@ -37,3 +37,8 @@ Hello, John Doe!**
 **Part-2 --> solution on the same name branch**
 below file with instructions and example outputs
 [specification (4).pdf](https://github.com/dstelmaszynski/CreditApp/files/8348540/specification.4.pdf)
+
+**Part-3 --> solution on the same name branch**
+below file with instructions and example outputs
+[specification (5).pdf](https://github.com/dstelmaszynski/CreditApp/files/8391444/specification.5.pdf)
+
